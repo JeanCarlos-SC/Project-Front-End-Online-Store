@@ -1,5 +1,12 @@
-# Project-Front-End-Online-Store 
-Projeto Desenvolvido em grupo, durante o curso da Trybe, Módulo de Front-End.
+# Project-Front-End-Online-Store :credit_card:
+
+# Sobre o projeto
+O objetivo deste projeto foi desenvolver a parte do front-end de uma loja de e-commerce, consumindo uma API do mercado livre, na tela inicial é possível  pesquisar pelo produto desejado ou acessar pelas categorias listadas, após a pesquisa ou selecão de categoria os produtos são renderizados em cards.
+As funcionalidades disponíveis são:
+  - Página Inicial: Adicionar produto ao carrinho, ver mais detalhes do produto clicando sobre ele, acessar o carrinho clicando sobre o ícone do mesmo.
+  - Página de detalhes: Adicionar produto ao carrinho e realizar uma avaliação do produto;
+  - Página do carrinho: Finalizar compra, remover produto do carrinho;
+  
 
 <h3>Tecnologias Utilizadas</h3>
 
@@ -23,3 +30,7 @@ Projeto Desenvolvido em grupo, durante o curso da Trybe, Módulo de Front-End.
 	<td>Node.js</td>
 </tr>
 </table>
+
+# Preview
+
+Link do deploy: <a href="">Acessar Projeto</a>
