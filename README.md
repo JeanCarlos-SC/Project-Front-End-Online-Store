@@ -3,6 +3,7 @@
 ### Como rodar o projeto na sua máquina
 
 Rode o `npm install` para instalar as dependências necessárias;
+
 Rode o `npm start` para inicializar o projeto na sua máquina;
 
 ### Sobre o projeto
