@@ -2,6 +2,10 @@
 
 ### Como rodar o projeto na sua máquina
 
+Clone o repositório com o comando `git clone git@github.com:JeanCarlos-SC/Project-Front-End-Online-Store.git`
+
+Acesse a pasta do projeto
+
 Rode o `npm install` para instalar as dependências necessárias;
 
 Rode o `npm start` para inicializar o projeto na sua máquina;
