@@ -37,6 +37,6 @@ As funcionalidades disponíveis são:
 </table>
 
 # Preview
-<img src="/img/prev.png" alt="preview do projeto"></img>
+<img src="src/img/prev.png" alt="preview do projeto"></img>
 
 Link do deploy: <a href="">Acessar Projeto</a>
