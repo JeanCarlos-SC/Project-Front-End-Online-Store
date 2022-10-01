@@ -1,6 +1,13 @@
 # Project-Front-End-Online-Store :credit_card:
 
-# Sobre o projeto
+### Como rodar o projeto na sua máquina
+
+Rode o `npm install` para instalar as dependências necessárias;
+Rode o `npm start` para inicializar o projeto na sua máquina;
+
+### Sobre o proje
+
+### Sobre o projeto
 O objetivo deste projeto foi desenvolver a parte do front-end de uma loja de e-commerce, consumindo uma API do mercado livre, na tela inicial é possível  pesquisar pelo produto desejado ou acessar pelas categorias listadas, após a pesquisa ou selecão de categoria os produtos são renderizados em cards.
 As funcionalidades disponíveis são:
   - Página Inicial: Adicionar produto ao carrinho, ver mais detalhes do produto clicando sobre ele, acessar o carrinho clicando sobre o ícone do mesmo.
