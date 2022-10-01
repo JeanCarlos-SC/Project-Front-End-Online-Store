@@ -7,7 +7,6 @@ As funcionalidades disponíveis são:
   - Página de detalhes: Adicionar produto ao carrinho e realizar uma avaliação do produto;
   - Página do carrinho: Finalizar compra, remover produto do carrinho;
   
-
 <h3>Tecnologias Utilizadas</h3>
 
 <table>
