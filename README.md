@@ -36,7 +36,7 @@ As funcionalidades disponíveis são:
 </tr>
 </table>
 
-# Preview
+#### Preview
 <img src="src/img/prev.png" alt="preview do projeto"></img>
 
-Link do deploy: <a href="">Acessar Projeto</a>
+### Link do deploy: <a href="">Acessar Projeto</a>
