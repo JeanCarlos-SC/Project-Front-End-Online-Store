@@ -39,4 +39,4 @@ As funcionalidades disponíveis são:
 #### Preview
 <img src="src/img/prev.png" alt="preview do projeto"></img>
 
-### Link do deploy: <a href="">Acessar Projeto</a>
+### Link do deploy: <a href="https://project-front-end-online-store-2cetibod5-jeancarlos-sc.vercel.app/">Acessar Projeto</a>
